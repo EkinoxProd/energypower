@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Energy Power - Batteries plomb UXL Longlife, alimentations rail DIN et alimentations secourues. Solutions haute performance pour industrie, sécurité, médical et transport.">
+    <meta name="keywords" content="batteries plomb, UXL Longlife, alimentation secourue, rail DIN, AGM, batterie industrielle, Energy Power">
+    <title>Energy Power - Batteries & Alimentations Professionnelles</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            background: #fff;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        .header-section {
+            background: #fff;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .header-section img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Content Sections */
+        section {
+            padding: 30px 20px;
+            background: #fff;
+        }
+
+        .content-image {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+
+        .intro-section {
+            background: #f5f5f5;
+            padding: 40px 20px;
+        }
+
+        .intro-content {
+            max-width: 900px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .intro-content h2 {
+            color: #7cb342;
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .intro-content p {
+            color: #555;
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+
+        /* Features Grid */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            max-width: 1000px;
+            margin: 40px auto;
+        }
+
+        .feature-box {
+            background: #fff;
+            padding: 30px;
+            border: 2px solid #7cb342;
+        }
+
+        .feature-box h3 {
+            color: #7cb342;
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+
+        .feature-box ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .feature-box li {
+            padding: 5px 0;
+            padding-left: 20px;
+            position: relative;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .feature-box li:before {
+            content: "■";
+            position: absolute;
+            left: 0;
+            color: #7cb342;
+        }
+
+        /* Technology Section */
+        .tech-section {
+            background: #f9f9f9;
+            padding: 40px 20px;
+        }
+
+        .tech-content {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .tech-content h2 {
+            color: #7cb342;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .tech-content p {
+            color: #555;
+            margin-bottom: 15px;
+            line-height: 1.7;
+        }
+
+        .tech-highlight {
+            background: #fff;
+            padding: 25px;
+            margin: 20px 0;
+            border-left: 5px solid #7cb342;
+        }
+
+        .tech-highlight h4 {
+            color: #7cb342;
+            margin-bottom: 15px;
+        }
+
+        .comparison-table {
+            max-width: 800px;
+            margin: 30px auto;
+            background: #fff;
+            padding: 20px;
+        }
+
+        .comparison-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+            margin: 10px 0;
+        }
+
+        .comparison-item {
+            text-align: center;
+            padding: 15px;
+            background: #f5f5f5;
+        }
+
+        .comparison-label {
+            font-weight: bold;
+            color: #555;
+            font-size: 0.9rem;
+            margin-bottom: 5px;
+        }
+
+        .comparison-value {
+            color: #7cb342;
+            font-size: 1.3rem;
+            font-weight: bold;
+        }
+
+        /* Battery Table */
+        .table-section {
+            background: #fff;
+            padding: 40px 20px;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+            max-width: 1100px;
+            margin: 20px auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            border: 2px solid #7cb342;
+        }
+
+        thead {
+            background: #7cb342;
+            color: #fff;
+        }
+
+        th {
+            padding: 12px 10px;
+            text-align: left;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            font-size: 0.9rem;
+        }
+
+        tbody tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+
+        /* Power Supply Section */
+        .power-section {
+            background: #f5f5f5;
+            padding: 40px 20px;
+        }
+
+        .power-section h2 {
+            color: #7cb342;
+            font-size: 1.8rem;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .power-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            max-width: 1100px;
+            margin: 30px auto;
+        }
+
+        .power-card {
+            background: #fff;
+            border: 2px solid #7cb342;
+        }
+
+        .power-card-header {
+            background: #7cb342;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        .power-card-body {
+            padding: 20px;
+        }
+
+        .spec-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            font-size: 0.9rem;
+        }
+
+        .spec-label {
+            font-weight: bold;
+            color: #555;
+        }
+
+        .spec-value {
+            color: #333;
+        }
+
+        /* Applications Section */
+        .apps-section {
+            background: #fff;
+            padding: 40px 20px;
+        }
+
+        .apps-section h2 {
+            color: #7cb342;
+            font-size: 1.8rem;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .apps-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        .app-category {
+            background: #f5f5f5;
+            padding: 20px;
+            border-left: 4px solid #7cb342;
+        }
+
+        .app-category h3 {
+            color: #7cb342;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+
+        .app-category ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .app-category li {
+            padding: 5px 0;
+            color: #555;
+            font-size: 0.95rem;
+        }
+
+        /* Commitments Section */
+        .commitments-section {
+            background: #f9f9f9;
+            padding: 40px 20px;
+        }
+
+        .commitments-section h2 {
+            color: #7cb342;
+            font-size: 1.8rem;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .commitments-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        .commitment-box {
+            background: #fff;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        .commitment-box h4 {
+            color: #7cb342;
+            font-size: 1rem;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .commitment-box p {
+            color: #666;
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        /* Terminal Icons Section */
+        .terminals-section {
+            background: #fff;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .terminals-images {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            max-width: 900px;
+            margin: 20px auto;
+        }
+
+        .terminals-images img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Single Image Sections */
+        .single-image-section {
+            background: #fff;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .single-image-section img {
+            max-width: 1000px;
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .power-grid,
+            .apps-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .commitments-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .comparison-row {
+                grid-template-columns: 1fr;
+            }
+
+            th, td {
+                padding: 8px 5px;
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header with Logo -->
+    <div class="header-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019l.jpeg" alt="Energy Power - La Puissance Verte">
+    </div>
+
+    <!-- Introduction -->
+    <section class="intro-section">
+        <div class="intro-content">
+            <h2>Energy Power : L'Excellence Énergétique</h2>
+            <p>
+                Energy Power est un concept de batteries longue durée et haut de gamme. De par sa conception,
+                issue du monde de l'industrie, cette nouvelle offre de batteries sans entretien (AGM) s'intègre
+                à tous les environnements ayant besoin d'une source autonome d'alimentation de secours.
+            </p>
+            <p>
+                Développée dans un respect des normes anti-feu et environnementales, la batterie Energy
+                Power vous apportera la sécurité d'une installation secourue parfaitement maîtrisée.
+            </p>
+        </div>
+    </section>
+
+    <!-- Features Grid -->
+    <section class="container">
+        <div class="features-grid">
+            <div class="feature-box">
+                <h3>Performances extrêmes</h3>
+                <ul>
+                    <li>Batteries étanches et sans entretien</li>
+                    <li>Faible taux d'auto-décharge</li>
+                    <li>Durée de vie multipliée par 2 par rapport à une batterie standard</li>
+                </ul>
+            </div>
+
+            <div class="feature-box">
+                <h3>Conformité comme gage de sécurité</h3>
+                <ul>
+                    <li>Norme CE</li>
+                    <li>Certification ISO 9001</li>
+                </ul>
+            </div>
+
+            <div class="feature-box">
+                <h3>Conception innovante</h3>
+                <ul>
+                    <li>Nouveau boîtier antichoc et isolant</li>
+                    <li>Protection des cosses</li>
+                    <li>Bacs et couvercles UL-94 V0, anti-feu</li>
+                    <li>Performances accrues des cellules piles</li>
+                    <li>Nouvelle technologie en grille épaisse</li>
+                    <li>Séparateurs en matériaux de verre absorbant microporeux</li>
+                </ul>
+            </div>
+
+            <div class="feature-box">
+                <h3>Sensibilité à l'environnement</h3>
+                <ul>
+                    <li>Programme avancé de recyclage des batteries</li>
+                    <li>Analyse du cycle de vie pour limiter les impacts environnementaux</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Terminal Icons -->
+    <div class="terminals-section">
+        <div class="terminals-images">
+            <img src="https://www.energypower.fr/wp-content/imgs/IPL019a.jpeg" alt="Types de bornes batteries">
+        </div>
+    </div>
+
+    <!-- UXL Technology -->
+    <section class="tech-section">
+        <div class="tech-content">
+            <h2>NOUVELLE TECHNOLOGIE SÉRIE UXL</h2>
+            <p>
+                La série UXL est particulièrement adaptée aux industries qui exigent des performances de longue durée.
+                Ses caractéristiques remarquables incluent :
+            </p>
+
+            <div class="tech-highlight">
+                <h4>Technologie de Grille Épaisse</h4>
+                <p>
+                    Cette technologie augmente la durée de vie de conception de la batterie jusqu'à 5 ans. 
+                    Elle améliore le poids de la batterie et optimise les matériaux actifs (plomb et oxyde de plomb).
+                </p>
+            </div>
+
+            <div class="tech-highlight">
+                <h4>Séparateurs en matériau de verre absorbant microporeux avancés</h4>
+                <p>
+                    Ces séparateurs diminuent la diffusion de l'oxygène, minimisent les courants de flottement 
+                    et inhibent la corrosion de la grille, prolongeant ainsi la durée de vie de la batterie.
+                </p>
+            </div>
+
+            <div class="tech-highlight">
+                <h4>Densité d'acide réduite</h4>
+                <p>
+                    La réduction de la densité d'acide de l'ordre de 0,1 à 0,15 g/cm³ diminue la corrosion 
+                    des parties conductrices, améliorant ainsi les performances de la batterie. Ce changement 
+                    abaisse également légèrement la tension à circuit ouvert de 1,32 V à 1,28 V.
+                </p>
+            </div>
+
+            <div class="comparison-table">
+                <h3 style="color: #7cb342; text-align: center; margin-bottom: 20px;">Comparaison Standard vs UXL</h3>
+                <div class="comparison-row">
+                    <div class="comparison-item">
+                        <div class="comparison-label">Modèle Standard</div>
+                        <div class="comparison-value">3h06</div>
+                        <p style="font-size: 0.85rem; color: #666;">Autonomie</p>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">Modèle UXL</div>
+                        <div class="comparison-value">5h51</div>
+                        <p style="font-size: 0.85rem; color: #666;">Autonomie</p>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">Performance</div>
+                        <div class="comparison-value">+66%</div>
+                        <p style="font-size: 0.85rem; color: #666;">Plus performant</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Discharge Test Graph -->
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019b.jpeg" alt="Tests comparatifs de résistance à la décharge UXL">
+    </div>
+
+    <!-- Battery Catalog -->
+    <section class="table-section">
+        <div class="container">
+            <h2 style="color: #7cb342; font-size: 1.8rem; margin-bottom: 30px; text-align: center;">BATTERIES</h2>
+            
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Type</th>
+                            <th>Tension minimale</th>
+                            <th>Capacité nominale</th>
+                            <th>Longueur</th>
+                            <th>Largeur</th>
+                            <th>Hauteur</th>
+                            <th>Hauteur avec cosses</th>
+                            <th>Type de bornes</th>
+                            <th>Qté/cart</th>
+                            <th>Poids batterie</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>EPW4V3,5AH UXL</td>
+                            <td>4 V</td>
+                            <td>4,5 Ah</td>
+                            <td>90 mm</td>
+                            <td>34 mm</td>
+                            <td>60 mm</td>
+                            <td>64 mm</td>
+                            <td>F1</td>
+                            <td>18</td>
+                            <td>0,43 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW6V1,3AH UXL</td>
+                            <td>6 V</td>
+                            <td>1,3 Ah</td>
+                            <td>97 mm</td>
+                            <td>24 mm</td>
+                            <td>51 mm</td>
+                            <td>57 mm</td>
+                            <td>F1</td>
+                            <td>40</td>
+                            <td>0,26 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW6V3,5AH UXL</td>
+                            <td>6 V</td>
+                            <td>3,5 Ah</td>
+                            <td>135 mm</td>
+                            <td>34 mm</td>
+                            <td>60 mm</td>
+                            <td>65 mm</td>
+                            <td>F1</td>
+                            <td>40</td>
+                            <td>0,64 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW6V4,5AH UXL</td>
+                            <td>6 V</td>
+                            <td>4,5 Ah</td>
+                            <td>70 mm</td>
+                            <td>48 mm</td>
+                            <td>101 mm</td>
+                            <td>106 mm</td>
+                            <td>F1</td>
+                            <td>20</td>
+                            <td>0,75 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW6V7AH UXL</td>
+                            <td>6 V</td>
+                            <td>7 Ah</td>
+                            <td>151 mm</td>
+                            <td>35 mm</td>
+                            <td>95 mm</td>
+                            <td>101 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>1,05 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW6V12AH UXL</td>
+                            <td>6 V</td>
+                            <td>12 Ah</td>
+                            <td>151 mm</td>
+                            <td>50 mm</td>
+                            <td>95 mm</td>
+                            <td>100 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>1,67 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V0,8AH UXL</td>
+                            <td>12 V</td>
+                            <td>0,8 Ah</td>
+                            <td>96 mm</td>
+                            <td>25 mm</td>
+                            <td>62 mm</td>
+                            <td>62 mm</td>
+                            <td>AMP/JST</td>
+                            <td>40</td>
+                            <td>0,34 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V1,3S UXL</td>
+                            <td>12 V</td>
+                            <td>1,3 Ah</td>
+                            <td>97 mm</td>
+                            <td>43 mm</td>
+                            <td>53 mm</td>
+                            <td>58 mm</td>
+                            <td>F1</td>
+                            <td>20</td>
+                            <td>0,5 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V2,2AH UXL</td>
+                            <td>12 V</td>
+                            <td>2,2 Ah</td>
+                            <td>178 mm</td>
+                            <td>34 mm</td>
+                            <td>60 mm</td>
+                            <td>65 mm</td>
+                            <td>F1</td>
+                            <td>20</td>
+                            <td>0,86 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V2,9AH UXL</td>
+                            <td>12 V</td>
+                            <td>2,9 Ah</td>
+                            <td>80 mm</td>
+                            <td>55,50 mm</td>
+                            <td>101 mm</td>
+                            <td>106 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>1,02 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V3,3AH UXL</td>
+                            <td>12 V</td>
+                            <td>3,3 Ah</td>
+                            <td>134 mm</td>
+                            <td>67 mm</td>
+                            <td>61 mm</td>
+                            <td>65 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>1,24 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V5AH UXL</td>
+                            <td>12 V</td>
+                            <td>5 Ah</td>
+                            <td>90 mm</td>
+                            <td>70 mm</td>
+                            <td>101 mm</td>
+                            <td>106 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>1,50 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V7,2AH UXL</td>
+                            <td>12 V</td>
+                            <td>7,2 Ah</td>
+                            <td>151 mm</td>
+                            <td>65 mm</td>
+                            <td>94 mm</td>
+                            <td>98 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>2,10 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V8,5AH UXL</td>
+                            <td>12 V</td>
+                            <td>8,5 Ah</td>
+                            <td>151 mm</td>
+                            <td>65 mm</td>
+                            <td>94 mm</td>
+                            <td>98 mm</td>
+                            <td>F1</td>
+                            <td>10</td>
+                            <td>2,40 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V12AH UXL</td>
+                            <td>12 V</td>
+                            <td>12 Ah</td>
+                            <td>151 mm</td>
+                            <td>96 mm</td>
+                            <td>94 mm</td>
+                            <td>99 mm</td>
+                            <td>F1</td>
+                            <td>4</td>
+                            <td>3,50 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V18AH UXL</td>
+                            <td>12 V</td>
+                            <td>18 Ah</td>
+                            <td>181 mm</td>
+                            <td>77 mm</td>
+                            <td>168 mm</td>
+                            <td>168 mm</td>
+                            <td>F3</td>
+                            <td>4</td>
+                            <td>5,25 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V26AH UXL</td>
+                            <td>12 V</td>
+                            <td>26 Ah</td>
+                            <td>175 mm</td>
+                            <td>165 mm</td>
+                            <td>125 mm</td>
+                            <td>125 mm</td>
+                            <td>F3/F12</td>
+                            <td>1</td>
+                            <td>7,40 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V33AH UXL</td>
+                            <td>12 V</td>
+                            <td>33 Ah</td>
+                            <td>195 mm</td>
+                            <td>131 mm</td>
+                            <td>155 mm</td>
+                            <td>182 mm</td>
+                            <td>Inser M5</td>
+                            <td>1</td>
+                            <td>9,80 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V44AH UXL</td>
+                            <td>12 V</td>
+                            <td>44 Ah</td>
+                            <td>197 mm</td>
+                            <td>166 mm</td>
+                            <td>170 mm</td>
+                            <td>170 mm</td>
+                            <td>F6</td>
+                            <td>1</td>
+                            <td>12,90 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V55AH UXL</td>
+                            <td>12 V</td>
+                            <td>55 Ah</td>
+                            <td>257 mm</td>
+                            <td>132 mm</td>
+                            <td>211 mm</td>
+                            <td>226 mm</td>
+                            <td>F6</td>
+                            <td>1</td>
+                            <td>16 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V60AH UXL</td>
+                            <td>12 V</td>
+                            <td>60 Ah</td>
+                            <td>259 mm</td>
+                            <td>168 mm</td>
+                            <td>208 mm</td>
+                            <td>221 mm</td>
+                            <td>T13/T16</td>
+                            <td>1</td>
+                            <td>19,50 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V70AH UXL</td>
+                            <td>12 V</td>
+                            <td>70 Ah</td>
+                            <td>348 mm</td>
+                            <td>167 mm</td>
+                            <td>178 mm</td>
+                            <td>178 mm</td>
+                            <td>F6/F10</td>
+                            <td>1</td>
+                            <td>20,60 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V100AH UXL</td>
+                            <td>12 V</td>
+                            <td>100 Ah</td>
+                            <td>330 mm</td>
+                            <td>173 mm</td>
+                            <td>212 mm</td>
+                            <td>220 mm</td>
+                            <td>F6</td>
+                            <td>1</td>
+                            <td>30 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V120AH UXL</td>
+                            <td>12 V</td>
+                            <td>120 Ah</td>
+                            <td>328 mm</td>
+                            <td>172 mm</td>
+                            <td>214 mm</td>
+                            <td>243 mm</td>
+                            <td>F11</td>
+                            <td>1</td>
+                            <td>37 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V150AH UXL</td>
+                            <td>12 V</td>
+                            <td>150 Ah</td>
+                            <td>485 mm</td>
+                            <td>172 mm</td>
+                            <td>240 mm</td>
+                            <td>240 mm</td>
+                            <td>F11</td>
+                            <td>1</td>
+                            <td>46 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V200AH UXL</td>
+                            <td>12 V</td>
+                            <td>200 Ah</td>
+                            <td>522 mm</td>
+                            <td>240 mm</td>
+                            <td>216 mm</td>
+                            <td>221 mm</td>
+                            <td>F11</td>
+                            <td>1</td>
+                            <td>59 Kg</td>
+                        </tr>
+                        <tr>
+                            <td>EPW12V265AH UXL</td>
+                            <td>12 V</td>
+                            <td>265 Ah</td>
+                            <td>535 mm</td>
+                            <td>275 mm</td>
+                            <td>275 mm</td>
+                            <td>275 mm</td>
+                            <td>F11</td>
+                            <td>1</td>
+                            <td>71 Kg</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Power Supply Images -->
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019c.jpeg" alt="Alimentations Rail DIN série EPWJS">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019d.jpeg" alt="Caractéristiques techniques alimentations EPWJS">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019e.jpeg" alt="Alimentations régulées secourues série EPWMB">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019f.jpeg" alt="Caractéristiques techniques alimentations EPWMB">
+    </div>
+
+    <!-- Applications Section -->
+    <section class="apps-section">
+        <div class="container">
+            <h2>POUR TOUTES APPLICATIONS</h2>
+            
+            <div class="apps-grid">
+                <div class="app-category">
+                    <h3>SÉCURITÉ</h3>
+                    <ul>
+                        <li>Alarme incendie</li>
+                        <li>Alarme antivol</li>
+                        <li>Contrôle d'accès</li>
+                        <li>Porte automatique coulissante</li>
+                        <li>Vidéoprotection</li>
+                    </ul>
+                </div>
+
+                <div class="app-category">
+                    <h3>AIDE À LA PERSONNE</h3>
+                    <ul>
+                        <li>Monte escalier</li>
+                        <li>Lève personnes</li>
+                        <li>Ouvre porte automatique</li>
+                    </ul>
+                </div>
+
+                <div class="app-category">
+                    <h3>ÉCLAIRAGE</h3>
+                    <ul>
+                        <li>Lampadaire public solaire</li>
+                        <li>Éclairage de sécurité</li>
+                        <li>Éclairage solaire</li>
+                        <li>Balisage aérien</li>
+                    </ul>
+                </div>
+
+                <div class="app-category">
+                    <h3>LOISIRS</h3>
+                    <ul>
+                        <li>Chariot de golf</li>
+                        <li>Vélo électrique</li>
+                        <li>Affichage sportif</li>
+                        <li>Moto/voiture électrique enfant</li>
+                    </ul>
+                </div>
+
+                <div class="app-category">
+                    <h3>MÉDICAL</h3>
+                    <ul>
+                        <li>Frigo de laboratoire</li>
+                        <li>Pousse seringue</li>
+                        <li>Affichage sportif</li>
+                        <li>Lit médicalisé</li>
+                    </ul>
+                </div>
+
+                <div class="app-category">
+                    <h3>TRANSPORT</h3>
+                    <ul>
+                        <li>Panneau de signalisation lumineux</li>
+                        <li>Borne d'appel d'urgence</li>
+                        <li>Radar pédagogique</li>
+                        <li>Horodateur</li>
+                        <li>Barrière de péage</li>
+                        <li>Arceaux de parking</li>
+                        <li>Camping car</li>
+                        <li>Borne de paiement de parking maritime</li>
+                        <li>Équipement de garage et de centre de contrôle technique</li>
+                    </ul>
+                </div>
+
+                <div class="app-category">
+                    <h3>INDUSTRIE</h3>
+                    <ul>
+                        <li>Auto laveuse</li>
+                        <li>Manutention</li>
+                        <li>Onduleur</li>
+                        <li>Téléphonie</li>
+                        <li>Alimentation secourue</li>
+                        <li>Mesureur de champs</li>
+                        <li>Ascenseur</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Commitments Section -->
+    <section class="commitments-section">
+        <div class="container">
+            <h2>NOS ENGAGEMENTS</h2>
+            
+            <div class="commitments-grid">
+                <div class="commitment-box">
+                    <h4>DISPONIBILITÉ</h4>
+                    <p>Tous les mois nous recevons 2 containers de batteries afin de fournir nos clients rapidement</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>FLUX LOGISTIQUE</h4>
+                    <p>Plusieurs containers de batteries sont produits et expédiés depuis l'usine tous les mois</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>RÉACTIVITÉ</h4>
+                    <p>Livraison en urgence sous certaines conditions (24 h en Île-de-France)</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>TRAITEMENT SÉLECTIF</h4>
+                    <p>Mise à disposition possible sur demande d'un bac de recyclage pour la gestion des déchets (DEEE)</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>FIABILITÉ</h4>
+                    <p>Des entreprises leaders nous font confiance sur des marchés nécessitants des produits sûrs et efficaces (médical…)</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>SERVICE</h4>
+                    <p>Nous nous engageons à répondre rapidement et efficacement aux demandes de nos clients</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>EXPÉRIENCE</h4>
+                    <p>Energy Power importe et distribue ses produits depuis plus de 15 ans</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>EXPÉDITION</h4>
+                    <p>Les livraisons ordinaires partout en France sont réalisées entre 48 h et 72 h</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>CONFORMITÉ</h4>
+                    <p>Nos produits sont conçus suivant les normes et dispositions européennes (techniques et environnementales)</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>GARANTIE</h4>
+                    <p>Le respect du délai de garantie est assuré grâce à une gestion appliquée des dates de fabrication des batteries</p>
+                </div>
+
+
+                <div class="commitment-box">
+                    <h4>QUALITÉ</h4>
+                    <p>Des tests aléatoires (charge-décharge) sont pratiqués régulièrement afin de s'assurer de la conformité des produits</p>
+                </div>
+
+                <div class="commitment-box">
+                    <h4>DISPONIBLE DANS LE RÉSEAU</h4>
+                    <p>energypower.fr</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Network Images -->
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019g.jpeg" alt="Réseau Francofa France">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019h.jpeg" alt="Agences Francofa 1">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019i.jpeg" alt="Agences Francofa 2">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019j.jpeg" alt="Agences Francofa 3">
+    </div>
+
+    <div class="single-image-section">
+        <img src="https://www.energypower.fr/wp-content/imgs/IPL019k.jpeg" alt="Agences Francofa 4">
+    </div>
+
+</body>
+</html>
