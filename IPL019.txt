@@ -1,0 +1,491 @@
+nBatteries plomb UXL Longlife
+nAlimentation sur rail DIN
+nAlimentations secourues
+
+
+
+LA PUISSANCE VERTE
+
+n BATTERIES
+
+n Performances extrêmes
+- Batteries étanches et sans entretien.
+- Faible taux d’auto-décharge.
+- Durée de vie multipliée par 2 
+par rapport à une batterie standard.
+
+EPW BATTERIE 4/6/12 VOLTS
+Bac et couvercle en ABS FR-UL94V0.
+
+n Conception innovante pour 
+répondre aux plus exigeants
+- Nouveau boîtier antichoc et isolant.
+- Protection des cosses.
+- Bacs et couvercles UL-94 V0,  anti-feu.
+- Performances accrues des cellules piles.
+- Nouvelle technologie en grille épaisse.
+- Séparateurs en matériaux de verre 
+absorbant microporeux.
+
+Energy Power est un concept de batteries longue durée et haut de gamme. De par sa conception, issue du monde de l’industrie, cette nouvelle offre de batteries sans entretien (AGM) s’intègre à tous les environnements ayant besoin d’une source autonome d’alimentation de secours. Développée dans un respect des normes anti-feu et environnementales, la batterie Energy Power vous apportera la sécurité d’une installation secourue parfaitement maîtrisée.
+
+n Conformité comme 
+gage de sécurité
+- Norme CE.
+- Certification ISO 9001.
+n Sensibilité à la protection 
+de l’environnement
+- Programme avancé de recyclage 
+des batteries.
+- Analyse du cycle de vie pour limiter 
+les impacts environnementaux.
+
+n Caractéristiques techniques
+
+
+Tension 
+minimale
+ Capacité
+nominale
+ Dimensions (+ ou - 2 mm)
+ Type
+de bornes
+ Qté/cart
+ Poids 
+batterie
+ 
+Longueur
+ Largeur
+ Hauteur
+ Hauteur 
+avec cosses
+ 
+EPW4V3,5AH UXL
+ 4 V
+ 4,5 Ah
+ 90 mm
+ 34 mm
+ 60 mm
+ 64 mm
+ F1
+ 18
+ 0,43 Kg
+ 
+EPW6V1,3AH UXL
+ 6 V
+ 1,3 Ah
+ 97 mm
+ 24 mm
+ 51 mm
+ 57 mm
+ F1
+ 40
+ 0,26 Kg
+ 
+EPW6V3,5AH UXL
+ 6 V
+ 3,5 Ah
+ 135 mm
+ 34 mm
+ 60 mm
+ 65 mm
+ F1
+ 40
+ 0,64 Kg
+ 
+EPW6V4,5AH UXL
+ 6 V
+ 4,5 Ah
+ 70 mm
+ 48 mm
+ 101 mm
+ 106 mm
+ F1
+ 20
+ 0,75 Kg
+ 
+EPW6V7AH UXL
+ 6 V
+ 7 Ah
+ 151 mm
+ 35 mm
+ 95 mm
+ 101 mm
+ F1
+ 10
+ 1,05 Kg
+ 
+EPW6V12AH UXL
+ 6 V
+ 12 Ah
+ 151 mm
+ 50 mm
+ 95 mm
+ 100 mm
+ F1
+ 10
+ 1,67 Kg
+ 
+EPW12V0,8AH UXL
+ 12 V
+ 0,8 Ah
+ 96 mm
+ 25 mm
+ 62 mm
+ 62 mm
+ AMP/JST
+ 40
+ 0,34 Kg
+ 
+EPW12V1,3S UXL
+ 12 V
+ 1,3 Ah
+ 97 mm
+ 43 mm
+ 53 mm
+ 58 mm
+ F1
+ 20
+ 0,5 Kg
+ 
+EPW12V2,2AH UXL
+ 12 V
+ 2,2 Ah
+ 178 mm
+ 34 mm
+ 60 mm
+ 65 mm
+ F1
+ 20
+ 0,86 Kg
+ 
+EPW12V2,9AH UXL
+ 12 V
+ 2,9 Ah
+ 80 mm
+ 55,50 mm
+ 101 mm
+ 106 mm
+ F1
+ 10
+ 1,02 Kg
+ 
+EPW12V3,3AH UXL
+ 12 V
+ 3,3 Ah
+ 134 mm
+ 67 mm
+ 61 mm
+ 65 mm
+ F1
+ 10
+ 1,24 Kg
+ 
+EPW12V5AH UXL
+ 12 V
+ 5 Ah
+ 90 mm
+ 70 mm
+ 101 mm
+ 106 mm
+ F1
+ 10
+ 1,50 Kg
+ 
+EPW12V7,2AH UXL
+ 12 V
+ 7,2 Ah
+ 151 mm
+ 65 mm
+ 94 mm
+ 98 mm
+ F1
+ 10
+ 2,10 Kg
+ 
+EPW12V8,5AH UXL
+ 12 V
+ 8,5 Ah
+ 151 mm
+ 65 mm
+ 94 mm
+ 98 mm
+ F1
+ 10
+ 2,40 Kg
+ 
+EPW12V12AH UXL
+ 12 V
+ 12 Ah
+ 151 mm
+ 96 mm
+ 94 mm
+ 99 mm
+ F1
+ 4
+ 3,50 Kg
+ 
+EPW12V18AH UXL
+ 12 V
+ 18 Ah
+ 181 mm
+ 77 mm
+ 168 mm
+ 168 mm
+ F3 
+ 4
+ 5,25 Kg
+ 
+EPW12V26AH UXL
+ 12 V
+ 26 Ah
+ 175 mm
+ 165 mm
+ 125 mm
+ 125 mm
+ F3/F12
+ 1
+ 7,40 Kg
+ 
+EPW12V33AH UXL
+ 12 V
+ 33 Ah
+ 195 mm
+ 131 mm
+ 155 mm
+ 182 mm
+ Inser M5
+ 1
+ 9,80 Kg
+ 
+EPW12V44AH UXL
+ 12 V
+ 44 Ah
+ 197 mm
+ 166 mm
+ 170 mm
+ 170 mm
+ F6
+ 1
+ 12,90 Kg
+ 
+EPW12V55AH UXL
+ 12 V
+ 55 Ah
+ 257 mm
+ 132 mm
+ 211 mm
+ 226 mm
+ F6
+ 1
+ 16 Kg
+ 
+EPW12V60AH UXL
+ 12 V
+ 60 Ah
+ 259 mm
+ 168 mm
+ 208 mm
+ 221 mm
+ T13/T16
+ 1
+ 19,50 Kg
+ 
+EPW12V70AH UXL
+ 12 V
+ 70 Ah
+ 348 mm
+ 167 mm
+ 178 mm
+ 178 mm
+ F6/F10
+ 1
+ 20,60 Kg
+ 
+EPW12V100AH UXL
+ 12 V
+ 100 Ah
+ 330 mm
+ 173 mm
+ 212 mm
+ 220 mm
+ F6
+ 1
+ 30 Kg
+ 
+EPW12V120AH UXL
+ 12 V
+ 120 Ah
+ 328 mm
+ 172 mm
+ 214 mm
+ 243 mm
+ F11
+ 1
+ 37 Kg
+ 
+EPW12V150AH UXL
+ 12 V
+ 150 Ah
+ 485 mm
+ 172 mm
+ 240 mm
+ 240 mm
+ F11
+ 1
+ 46 Kg
+ 
+EPW12V200AH UXL
+ 12 V
+ 200 Ah
+ 522 mm
+ 240 mm
+ 216 mm
+ 221 mm
+ F11
+ 1
+ 59 Kg
+ 
+EPW12V265AH UXL
+ 12 V
+ 265 Ah
+ 535 mm
+ 275 mm
+ 275 mm
+ 275 mm
+ F11
+ 1
+ 71 Kg
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F10
+
+F11
+
+F12
+
+AMP/JST
+
+F1
+
+F3
+
+F5
+
+F6
+
+F9
+
+Conforme aux directives CEM :
+EN 55022 classe B
+Immunité : EN61000-4-2,3,4,5,6,8,11
+
+
+
+energypower.fr
+
+n NOUVELLE TECHNOLOGIE SÉRIE UXL
+
+La série UXL est particulièrement adaptée aux industries qui exigent des performances de longue durée. 
+Ses caractéristiques remarquables incluent :
+- Technologie de Grille Épaisse : cette technologie augmente la durée de vie de conception de la batterie jusqu’à 5 ans. Elle améliore le poids de la batterie et optimise les matériaux actifs (plomb et oxyde de plomb).
+- Séparateurs en matériau de verre absorbant microporeux avancés : ces séparateurs diminuent la diffusion de l’oxygène, minimisent 
+les courants de flottement et inhibent la corrosion de la grille, prolongeant ainsi la durée de vie de la batterie.
+- Densité d’acide réduite : La réduction de la densité d’acide de l’ordre de 0,1 à 0,15 g/cm3 diminue la corrosion des parties conductrices, améliorant ainsi les performances de la batterie. Ce changement abaisse également légèrement la tension à circuit ouvert de 1,32 V à 1,28 V.
+
+Modèle N°
+ Autonomie 
+en décharge
+ Poids
+ Densité d’acide
+ Durée de vie
+ Résistance interne
+ Garantie
+ Tension à circuit ouvert
+ 
+EPW12V7.2AH (Modèle standard)
+ 3h06
+ 2 kg
+ 1,500
+ 3-4 ans
+ 24 mO
+ 1 an
+ 1,32 V
+ 
+EPW12V7.2AHUXL
+ 5h51
+ 2,15 kg
+ 1,305
+ 4-5 ans
+ 18 mO
+ 2 ans
+ 1,28 V
+ 
+
+
+
+Modèles standards : Haute capacité initiale avec une diminution progressive au fil du temps. 
+Nouveaux Modèles UXL : Capacité initiale plus faible, suivie d’une augmentation après 50 à 100 cycles.
+
+n Tests comparatifs de résistance à la décharge – UXL : une autonomie extraordinaire
+Tests réalisés sur les 3 modèles de batteries 7 et 9A/H : 
+- La nouvelle version UXL 12V 7A/H (courbes rouges).
+- La version 12V 7A/H standard AGM (courbes vertes).
+- La version 12V 9A/H HD AGM (courbes bleues).
+
+Si l’on considère 12V comme une tension acceptable, 
+les tests montrent une résistance à la décharge 
+remarquable des batteries UXL, 66% plus performante 
+que la technologie HD.
+
+
+1ère décharge batterie UXL
+
+
+2ème décharge batterie UXL
+
+
+1ère décharge batterie standard AGM
+
+
+2ème décharge batterie standard AGM
+
+
+1ère décharge HD
+
+
+2ème décharge HD
+
+
+energypower.fr
+
+n ALIMENTATIONS
+
+
+ALIMENTATION RAIL DIN 
+SÉRIE EPWJS
+Alimentation à découpage modulaire 2 ou 3 modules, permettant d’alimenter automates, contrôle d’accès, ventouses, gâches électriques et tout appareil électronique montage Rail Din TS 35.
+
+
+> Fiabilité éprouvée
+> Rendement élevé
+
+n Caractéristiques techniques
+
+
